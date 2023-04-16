@@ -8,6 +8,8 @@ This website was created for the Horiseon team to share knowledge on Search Engi
 
 Through the process of refactoring this webpage, I was able to learn more about accessibility through semantic elements and how they can be used for the visually impaired. The alt elements for the images also help with visually impaired accessibility. I also learned that the semantic elements and text descriptions can also help with search engine optimization.
 
+[Here is a link to the webpage](https://sarah-paterson.github.io/Horiseon-Refactor/)
+
 ---
 ---
 
