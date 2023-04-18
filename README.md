@@ -25,7 +25,7 @@ Through the process of refactoring this webpage, I was able to learn more about 
 
 ## Code Modification
 
-The key to this project was to refactor the code without changing the website display. To illustrate some of the modifications I made, I created this section to share a few examples. Below is a compairson between the header in the starting code and the header in my refactored code.
+The key to this project was to refactor the code without changing the website display. To illustrate some of the modifications I made, I created this section to share a few examples. Below is a comparison between the header in the starting code and the header in my refactored code.
     
 Starting HTML Code - **Header**
 ![Starting HTML Code Screenshot](assets/images/Starting%20HTML%20Code.png "Starting HTML Screenshot")
